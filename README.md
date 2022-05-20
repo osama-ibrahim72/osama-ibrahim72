@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ## My Github statistics 🚀:
 
-![Mira's github stats](https://github-readme-stats.vercel.app/api?username=osama-ibrahim72&show_icons=true&theme=tokyonight)
+![smsm's github stats](https://github-readme-stats.vercel.app/api?username=osama-ibrahim72&show_icons=true&theme=tokyonight)
 
-![Mira's github streak](https://github-readme-streak-stats.herokuapp.com/?user=osama-ibrahim72&theme=tokyonight&include_all_commits=true&count_private=true)
+![smsm's github streak](https://github-readme-streak-stats.herokuapp.com/?user=osama-ibrahim72&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Mira's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osama-ibrahim72&theme=tokyonight&layout=compact)
+![smsm's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osama-ibrahim72&theme=tokyonight&layout=compact)
 
 
