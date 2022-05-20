@@ -30,6 +30,20 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"/>
  </p>
+ 
+  ## Connect with me 🙋🏻‍♀️:
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/osama-ibrahim-marzok-1b8a111b1/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:osamaabrahim72@gmail.com)
+[![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/SMSM_72)
+[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/smsmmarzok30/)
+
+## My Github statistics 🚀:
+
+![Mira's github stats](https://github-readme-stats.vercel.app/api?username=osama-ibrahim72&show_icons=true&theme=tokyonight)
+
+![Mira's github streak](https://github-readme-streak-stats.herokuapp.com/?user=osama-ibrahim72&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Mira's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osama-ibrahim72&theme=tokyonight&layout=compact)
+
 
