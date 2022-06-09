@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 
 ![smsm's github streak](https://github-readme-streak-stats.herokuapp.com/?user=osama-ibrahim72&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![smsm's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osama-ibrahim72&theme=tokyonight&layout=compact)
+
 
 
