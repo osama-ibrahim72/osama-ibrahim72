@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 
 ## Languages and Tools 🛠:
 <p>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
+   <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/undefined/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>
-  <img src="https://img.icons8.com/material-outlined/24/undefined/django.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/undefined/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/undefined/dart.png"/>
   <img src="https://img.icons8.com/fluency/48/undefined/flutter.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/undefined/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
   
  </p>
  
