@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
  </p>
  
   ## Connect with me 🙋🏻‍♀️:
