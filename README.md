@@ -31,6 +31,12 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
   <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
   <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
+  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/undefined/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>
+  <img src="https://img.icons8.com/material-outlined/24/undefined/django.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/dart.png"/>
+  <img src="https://img.icons8.com/fluency/48/undefined/flutter.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
+  
  </p>
  
   ## Connect with me 🙋🏻‍♀️:
