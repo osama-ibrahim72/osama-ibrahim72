@@ -5,7 +5,7 @@
 
 
 <!-- visitors -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-ibrahim72&label=Profile%20views&color=0e75b6&style=flat" alt="osama-ibrahim72" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=osama-ibrahim72&label=Profile%20views&color=0e75b6&style=flat" alt="osama-ibrahim72" /> </p>
 
 
 <!--
@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on  **Problem Solving / C++  / Data Structures / Algorithms / Back-end / Data Base**
-- 🌱 I’m currently learning **django / Flutter / HTML 5 / CSS / JS / C# / Node Js**
+- 🌱 I’m currently learning **django / JS / C# / Node Js**
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with 🏆 **2022 Goals: improve my problem solving skills and Contribute more to Open Source projects**
 - 💬 Ask me about **related about programming and Problem solving**
