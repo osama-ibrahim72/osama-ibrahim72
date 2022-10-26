@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:osamaabrahim72@gmail.com)
 [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/SMSM_72)
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/smsmmarzok30/)
-[![kaggle](https://img.icons8.com/windows/32/000000/kaggle.png)](https://www.kaggle.com/smsmibrahim)
-
+[![Kaggle](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png)](https://www.kaggle.com/smsmibrahim)
 ## My Github statistics 🚀:
 
 ![smsm's github stats](https://github-readme-stats.vercel.app/api?username=osama-ibrahim72&show_icons=true&theme=tokyonight)
