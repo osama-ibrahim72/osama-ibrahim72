@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osama Ibrahim</h1>
+<h1 align="center">Hi 👋, I'm SMSM</h1>
 
 <h3 align="center">A Software Engineer from Egypt</h3><br>
 
@@ -13,12 +13,21 @@
 
 Here are some ideas to get you started:
 -->
-<!-- - 🔭 I’m currently working on  **Problem Solving / C++  / Data Structures / Algorithms / Back-end / Data Base** -->
-- 🌱 I’m currently learning **Machine Learning**
-<!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with 🏆 **2022 Goals: improve my problem solving skills and Contribute more to Open Source projects**
+## 💁‍♂️ About me
+- 😃 I'm Osama Ibrahim Marzok
+- 🏫 From Cairo, Egypt
+- 👩🏻‍💻 Student at **Faculty of Computers and Artificial Intelligence** and **Artificial Intelligence (major)**- Cairo University
+- 🚀 Fields that interest me most include **Data Science, Machine Learning, Deep Learning, NLP, and BackEnd**.
+- 🧠 I'm a **Competitive programmer** .
+- 🤓 My hobbies are **Drawing**
 - 💬 Ask me about **related about programming and Problem solving**
 - 📫 How to reach me: **osamaabrahim72@gmail.com**
+
+<!-- - 🔭 I’m currently working on  **Problem Solving / C++  / Data Structures / Algorithms / Back-end / Data Base** 
+- 🌱 I’m currently learning **Machine Learning**-->
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with 🏆 **2022 Goals: improve my problem solving skills and Contribute more to Open Source projects**  -->
+
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
