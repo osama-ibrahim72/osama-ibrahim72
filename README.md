@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😃 I'm Osama Ibrahim Marzok
 - 🏫 From Cairo, Egypt
 - 👩🏻‍💻 Student at **Faculty of Computers and Artificial Intelligence** and **Artificial Intelligence (major)**- Cairo University
-- 🚀 Fields that interest me most include **Data Science, Machine Learning, Deep Learning, NLP, and BackEnd**.
-- 🧠 I'm a **Competitive programmer** .
+<!-- - 🚀 Fields that interest me most include **Data Science, Machine Learning, Deep Learning, NLP, and BackEnd**. -->
+- 🧠 I'm a **Software Engineer** .
 - 🤓 My hobbies are **Drawing**
 - 💬 Ask me about **related about programming and Problem solving**
 - 📫 How to reach me: **osamaabrahim72@gmail.com**
@@ -46,8 +46,12 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/undefined/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
-  
- </p>
+  <img width="64" height="64" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/48/external-PHP-programming-and-development-those-icons-lineal-color-those-icons.png" alt="external-PHP-programming-and-development-those-icons-lineal-color-those-      icons"/> 
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-    logo-shadow-tal-revivo"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/48/external-Docker-social-media-those-icons-lineal-color-those-icons.png" alt="external-Docker-social-media-those-icons-lineal-color-those-icons"/>
+</p>
  
   ## Connect with me 🙋🏻‍♀️:
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/osama-ibrahim-marzok-1b8a111b1/)
