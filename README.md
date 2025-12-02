@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 <img width="96" height="96" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-    logo-shadow-tal-revivo"/>
+</p>
+<p>DevOps</p>
+<p>
+  <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/431852e9-3615-49ae-b548-72ac404f391c" />
 
 </p>
 <p>
