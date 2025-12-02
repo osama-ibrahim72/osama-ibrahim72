@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😃 I'm Osama Ibrahim Marzok
 - 🏫 From Cairo, Egypt
 - 🧠 I'm a **Software Engineer** .
-- - 🚀 +2 Years of Software Engineering Experience! 
+- 🚀 +2 Years of Software Engineering Experience! 
 - 👩🏻‍💻 I graduated from **Faculty of Computers and Artificial Intelligence** and **Artificial Intelligence (major)**- Cairo University
 - 🤓 My hobbies are **Drawing**
 - 💬 Ask me about **related about Backend , Dashboards , Admin Panels**
