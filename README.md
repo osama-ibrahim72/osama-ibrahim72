@@ -48,8 +48,10 @@ Here are some ideas to get you started:
 <p>DevOps</p>
 <p>
   <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/431852e9-3615-49ae-b548-72ac404f391c" />
-
+      <img width="64" height="64" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/48/external-Docker-social-media-those-icons-lineal-color-those-icons.png" alt="external-Docker-social-media-those-icons-lineal-color-those-icons"/>
+  <img  width="96" height="96" src="https://cdn.brandfetch.io/id0Q-AgW4Q/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1743050324207" /> 
 </p>
+<p>Another Languages and Tools</p>
 <p>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
    <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
@@ -62,8 +64,6 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/fluency/48/undefined/flutter.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/undefined/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/48/external-Docker-social-media-those-icons-lineal-color-those-icons.png" alt="external-Docker-social-media-those-icons-lineal-color-those-icons"/>
 </p>
  
   ## Connect with me 🙋🏻‍♀️:
