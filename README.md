@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 ## 💁‍♂️ About me
 - 😃 I'm Osama Ibrahim Marzok
 - 🏫 From Cairo, Egypt
-- 👩🏻‍💻 Student at **Faculty of Computers and Artificial Intelligence** and **Artificial Intelligence (major)**- Cairo University
-<!-- - 🚀 Fields that interest me most include **Data Science, Machine Learning, Deep Learning, NLP, and BackEnd**. -->
 - 🧠 I'm a **Software Engineer** .
+- - 🚀 +2 Years of Software Engineering Experience! 
+- 👩🏻‍💻 I graduated from **Faculty of Computers and Artificial Intelligence** and **Artificial Intelligence (major)**- Cairo University
 - 🤓 My hobbies are **Drawing**
-- 💬 Ask me about **related about programming and Problem solving**
+- 💬 Ask me about **related about Backend , Dashboards , Admin Panels**
 - 📫 How to reach me: **osamaabrahim72@gmail.com**
 
 <!-- - 🔭 I’m currently working on  **Problem Solving / C++  / Data Structures / Algorithms / Back-end / Data Base** 
