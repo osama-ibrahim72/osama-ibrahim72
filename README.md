@@ -33,6 +33,19 @@ Here are some ideas to get you started:
 
 
 ## Languages and Tools 🛠:
+<p>PHP Stack:</p>
+<p>
+<img width="64" height="64" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/48/external-PHP-programming-and-development-those-icons-lineal-color-those-icons.png" alt="external-PHP-programming-and-development-those-icons-lineal-color-those-      icons"/> 
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/>
+<img width="64" height="64" src="https://logowik.com/content/uploads/images/filament-laravel4896.logowik.com.webp">
+</p>
+<p>Data Bases:</p>
+<p>
+<img width="96" height="96" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-    logo-shadow-tal-revivo"/>
+
+</p>
 <p>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
    <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
@@ -46,10 +59,6 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/undefined/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
-  <img width="64" height="64" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/48/external-PHP-programming-and-development-those-icons-lineal-color-those-icons.png" alt="external-PHP-programming-and-development-those-icons-lineal-color-those-      icons"/> 
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-    logo-shadow-tal-revivo"/>
   <img width="48" height="48" src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/48/external-Docker-social-media-those-icons-lineal-color-those-icons.png" alt="external-Docker-social-media-those-icons-lineal-color-those-icons"/>
 </p>
  
